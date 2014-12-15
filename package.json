@@ -1,0 +1,28 @@
+{
+  "name": "myprojectpattern",
+  "version": "0.0.1",
+  "description": "project pattern",
+  "scripts": {
+    "install": "bower install",
+    "update": "bower update"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {
+    "grunt": ">=0.4.1",
+    "grunt-contrib-clean": "^0",
+    "grunt-contrib-concat": "^0",
+    "grunt-contrib-copy": "^0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-less": "^0",
+    "grunt-contrib-requirejs": "^0",
+    "grunt-contrib-uglify": "^0",
+    "grunt-requirejs-transformconfig": "^0",
+    "grunt-usemin": "^0",
+    "load-grunt-tasks": "^0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0"
+  }
+}

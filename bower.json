@@ -1,0 +1,25 @@
+{
+  "name": "myprojectpattern",
+  "version": "0.0.1",
+  "authors": [
+    "Henry<happybridge14@163.com>"
+  ],
+  "description": "project pattern",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1",
+    "jquery-jsonp": "~2.4.0",
+    "jquery-cookie": "~1.4.1",
+    "pystringformat": "~0.2.2",
+    "when": "*",
+    "poly": "*"
+  }
+}

@@ -1,0 +1,37 @@
+# Compiled source #
+######################
+*.exe
+# Add psd to GIT
+# *.psd
+
+# Packages #
+######################
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.zip
+
+# Logs and databases #
+######################
+*.log
+
+# Auto generate folders #
+######################
+dist/
+tmp/
+_output/
+node_modules/
+bower_components/
+
+# OS generated files #
+######################
+.idea
+.project
+.settings
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
